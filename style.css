@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+}
+
+#judul{
+    font-family: Raleway, cursive;
+    color: #D21312;
+    font-size: 2rem;
+}
+
+#tengahin{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+}
+
+img{
+    width: 38.3%;
+    border: 5px solid #D21312;
+}
+
+p{
+    color: white;
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
